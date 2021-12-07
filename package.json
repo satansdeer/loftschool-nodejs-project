@@ -23,7 +23,7 @@
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
     "socket.io-client": "^2.4.0",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.763.0"
   },
   "scripts": {
     "start": "react-scripts start",
